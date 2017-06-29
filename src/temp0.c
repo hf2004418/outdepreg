@@ -1,6 +1,5 @@
 #include <R.h>
 #include <Rinternals.h>
-//add comments
 
 SEXP add_(SEXP x_, SEXP y_) {
   double x = asReal(x_);

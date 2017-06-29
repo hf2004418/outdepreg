@@ -16,3 +16,5 @@ Suggests: knitr,
 VignetteBuilder: knitr
 LinkingTo: Rcpp
 Imports: Rcpp
+URL: https://github.com/hf2004418/outdepreg
+BugReports: https://github.com/hf2004418/outdepreg/issues
